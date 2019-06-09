@@ -46,3 +46,8 @@ https://docs.spring.io/spring-boot/docs/2.0.0.M3//gradle-plugin/reference/html/#
 - https://qiita.com/rubytomato@github/items/ac65c2203d16d1a1bbd7#%E3%83%AA%E3%83%B3%E3%82%AFurl%E5%BC%8F
 - https://qiita.com/NagaokaKenichi/items/c6d1b76090ef5ef39482
 - https://qiita.com/opengl-8080/items/eb3bf3b5301bae398cc2
+
+## Layout
+
+- https://github.com/ultraq/thymeleaf-layout-dialect
+- https://qiita.com/t-iguchi/items/7d52141fd0ddda0657e6#thymeleaf3%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E3%81%AE%E3%81%A7%E6%9B%B8%E3%81%8D%E7%9B%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F

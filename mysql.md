@@ -14,3 +14,7 @@
 
 http://www.mybatis.org/migrations/updown.html
 
+
+# プロンプトのカスタマイズ
+
+http://nippondanji.blogspot.com/2009/03/mysql.html
